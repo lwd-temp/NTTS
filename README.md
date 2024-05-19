@@ -67,6 +67,13 @@ twine upload dist/*
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/lwd-temp">
+                    <img src="https://avatars.githubusercontent.com/u/26019675?v=4" width="100;" alt="lwd-temp"/>
+                    <br />
+                    <sub><b>Sunset Mikoto</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/JadyXuan">
                     <img src="https://avatars.githubusercontent.com/u/35390572?v=4" width="100;" alt="JadyXuan"/>
                     <br />
